@@ -58,6 +58,15 @@
         <mxCell id="jdzAaUArkbH1sCb7SLQb-5" value="用户输入提示词对数据进行标签分类：&lt;div&gt;如请分析数据，将文本文件根据内容分类到法律、金融、科技等不同目录。并对为数据根据语义、段落等进行智能分块。对分块的内容进行语义分析，根据内容为其打上标签&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="680" width="260" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="jdzAaUArkbH1sCb7SLQb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jdzAaUArkbH1sCb7SLQb-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="930" />
+              <mxPoint x="1010" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jdzAaUArkbH1sCb7SLQb-8" value="用户判断数据质量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="850" width="180" height="160" as="geometry" />
         </mxCell>

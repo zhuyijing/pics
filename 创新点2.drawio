@@ -67,6 +67,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jdzAaUArkbH1sCb7SLQb-13" value="用户修改提示词" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jdzAaUArkbH1sCb7SLQb-12">
+          <mxGeometry x="-0.6844" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jdzAaUArkbH1sCb7SLQb-8" value="用户判断数据质量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="850" width="180" height="160" as="geometry" />
         </mxCell>

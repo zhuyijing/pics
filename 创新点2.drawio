@@ -55,7 +55,7 @@
         <mxCell id="jdzAaUArkbH1sCb7SLQb-2" value="系统根据用户的输入，进行分块、清洗、去重等操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="582" y="500" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jdzAaUArkbH1sCb7SLQb-5" value="用户输入提示词对数据进行标签分类：&lt;div&gt;如请分析数据，将文本文件根据内容分类到法律、金融、科技等不同目录。并对为数据根据语义、段落等进行智能分块。对分块的内容进行语义分析，根据内容为其打上标签&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jdzAaUArkbH1sCb7SLQb-5" value="用户输入提示词对数据进行标签分类：&lt;div&gt;如请分析数据，将文本文件根据内容分类到法律、金融、科技等不同目录。并将数据根据语义、段落等进行智能分块。对分块的内容进行语义分析，根据内容为其打上标签&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="680" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jdzAaUArkbH1sCb7SLQb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jdzAaUArkbH1sCb7SLQb-8">

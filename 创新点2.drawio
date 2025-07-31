@@ -45,7 +45,7 @@
           <mxGeometry x="120" y="500" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jdzAaUArkbH1sCb7SLQb-2" value="系统根据用户的输入，进行分块、清洗、去重等操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="582" y="490" width="260" height="100" as="geometry" />
+          <mxGeometry x="582" y="500" width="260" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
